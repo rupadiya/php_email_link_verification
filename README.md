@@ -1,0 +1,1 @@
+PHP script that handles email validation with a link that expires after 30 minutes. This involves generating a unique token for each email, storing it with a timestamp in a database, and then checking the token’s validity when the user clicks the link.
